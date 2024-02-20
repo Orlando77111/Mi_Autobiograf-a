@@ -1,6 +1,6 @@
 * {
-    padding: 0;
-    margin: 0;
+    padding: 1;
+    margin: 1;
     box-sizing: border-box;
   }
   
@@ -10,8 +10,8 @@
   }
   
   .box {
-    width: 500px;
-    background: rgba(0, 0, 0, .4);
+    width: 100%;
+    background: rgba(0, 0, 0, 0.568);
     padding: 20px;
     text-align: center;
     margin: 0 auto;
@@ -63,4 +63,9 @@
   .box ul li a:hover {
     color:#b9b9b9;
     transform: scale(1.3);
+  }
+
+  p {
+    display: flex;
+    justify-content: center;
   }

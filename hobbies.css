@@ -1,0 +1,37 @@
+body {
+    background-color: black;
+}
+
+h1 {
+    text-align: center;
+    color: aliceblue;
+}
+
+.text1 {
+    text-align: left;
+    color: aliceblue;
+}
+
+.text2 {
+    text-align: right;
+    color: aliceblue;
+}
+
+.text3 {
+    text-align: center;
+    color: aliceblue;
+}
+
+.text4 {
+    text-align: center;
+    color: aliceblue;
+}
+
+.Caja1 {
+    display: flex;
+    justify-content: center;
+}
+
+.img1 {
+    margin-right: 500px;
+}
